@@ -7,7 +7,9 @@
       "start": "gulp",
       "letConst" : "gulp --file letConst.js",
       "destrcting" : "gulp --file destrcting.js",
-      "sym" : "gulp --file Symbol.js"
+      "sym" : "gulp --file Symbol.js",
+      "arrow" : "gulp --file arrow.js",
+      "Promise" : "gulp --file Promise.js"
   },
   "author": "",
   "license": "ISC",
