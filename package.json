@@ -9,7 +9,9 @@
       "destrcting" : "gulp --file destrcting.js",
       "sym" : "gulp --file Symbol.js",
       "arrow" : "gulp --file arrow.js",
-      "Promise" : "gulp --file Promise.js"
+      "Promise" : "gulp --file Promise.js",
+      "rest" : "gulp --file rest.js",
+      "Class" : "gulp --file Class.js"
   },
   "author": "",
   "license": "ISC",
