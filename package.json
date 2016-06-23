@@ -11,7 +11,8 @@
       "arrow" : "gulp --file arrow.js",
       "Promise" : "gulp --file Promise.js",
       "rest" : "gulp --file rest.js",
-      "Class" : "gulp --file Class.js"
+      "Class" : "gulp --file Class.js",
+      "gen" : "gulp --file gen.js"
   },
   "author": "",
   "license": "ISC",
